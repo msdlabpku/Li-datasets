@@ -1,6 +1,6 @@
 # Li-datasets
 
-## introduction
+## Introduction
 ---
 This project contains the datasets for training Li potential models 
 in the paper "Self-Healing Mechanism of Lithium in Lithium Metal"
@@ -11,7 +11,7 @@ These datasets contain train and test datasets, and these datasets are generated
 **See DFT calculations and datasets section in [Supplementary materials](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadvs.202105574&file=advs3655-sup-0001-SuppMat.pdf) for more information about these datasets.**
 
 
-## file
+## Files
 
 `box.npy`  contains the lattice parameters information (one line for one configuration)
 
