@@ -28,5 +28,5 @@ These datasets contain train and test datasets, and these datasets are generated
 `type_map.raw` map the elements information from the number to word
 
 
-## Cite
-If you want to use these datasets, please cite the paper [Self-Healing Mechanism of Lithium in Lithium Metal](https://doi.org/10.1002/advs.202105574).
+## License and Cite
+This software is licensed under the GNU General Public License version 3 or any later version (GPL-3.0-or-later). If you use these datasets in any publications, please cite the paper [Self-Healing Mechanism of Lithium in Lithium Metal](https://doi.org/10.1002/advs.202105574).
