@@ -13,19 +13,19 @@ These datasets contain train and test datasets, and these datasets are generated
 
 ## Files
 
-`box.npy`  contains the lattice parameters information (one line for one configuration)
+`box.npy`  contains the lattice parameters information;
 
-`coord.npy`  contains the coordinate information (one line for one configuration)
+`coord.npy`  contains the coordinate information;
 
-`energy.npy` contains the calculated energy information (one line for one configuration)
+`energy.npy` contains the calculated energy information;
 
-`force.npy` contains the  calculated force information (one line for one configuration)
+`force.npy` contains the  calculated force information;
 
-`virial.npy` contains the calculated virial information (one line for one configuration)
+`virial.npy` contains the calculated virial information;
 
-`type.raw` contains elements information of each atoms for all configurations in the file 
+`type.raw` contains elements information of each atoms for all configurations in the file;
 
-`type_map.raw` map the elements information from the number to word
+`type_map.raw` map the elements information from the number to word.
 
 
 ## License and Cite
