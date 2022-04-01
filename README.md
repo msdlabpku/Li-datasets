@@ -1,7 +1,7 @@
 # Li-datasets
 
 ## Introduction
----
+
 This project contains the datasets for training Li potential models 
 in the paper "Self-Healing Mechanism of Lithium in Lithium Metal"
 
